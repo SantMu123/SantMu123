@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Santiago Muñoz
 
 <!--
 **SantMu123/SantMu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I´m from Colombia, born in Bogotá capital city in 2000.
+
+ I have a degree in **industrial engineering** from the Universidad Industrial de Santander. 
+
+ I like soccer ⚽ and know more about the programming world.
+
+|Comando|Descripción|
+|-------|-----------|
+|ls|Lista los archivos de la carpeta actual|
+|cd|Navegar entre carpetas|
+|mkdir|Crear una carpeta|
+|cp-r|Permite copiar una carpeta|
+|rm-r|Permite eliminar una carpeta|
+
+
+|Alias|Descripción|
+|-----|-----------|
+|findd|busca archivo|
+|cl|limpia la terminal|
+
