@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  I´m from Colombia, born in Bogotá capital city in 2000.
 
- I have a degree in **industrial engineering** from the Universidad Industrial de Santander. 
+ I study **industrial engineering** at the Universidad Industrial de Santander
 
  I like soccer ⚽ and know more about the programming world.
 
