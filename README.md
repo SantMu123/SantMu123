@@ -1,37 +1,23 @@
 ### Hi, my name is Santiago Muñoz Castañeda
 
-<!--
-**SantMu123/SantMu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m from Colombia, born in Bogotá, the capital city, in the year 2000.
 
-Here are some ideas to get you started:
+My skills in backend programming with languages such as JavaScript, MongoDB, and Python, combined with my knowledge of operating systems and corporate finance, make me a versatile and well-rounded individual in any modern business context. Throughout my involvement in projects, I have not only contributed unique and valuable perspectives but also been able to empathize with team members, fostering cohesion that helps overcome any challenge. This is complemented by my experience in operations management and agile methodologies, allowing me to optimize processes and cultivate a collaborative environment. My commitment to goals and the added value I bring make me an invaluable asset, ready to tackle any challenge in the world of technology and management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education and Training
+- **Campuslands**: Software Development Training  
+- **Universidad Industrial de Santander**: Industrial Engineering, 10th Semester
 
- I´m from Colombia, born in Bogotá capital city in 2000.
+### Skills
+- JavaScript  
+- TypeScript  
+- MongoDB  
+- Docker  
+- Node.js  
+- MySQL  
+- React  
+- Python  
 
- I study **industrial engineering** at the Universidad Industrial de Santander
+---
 
- I like soccer ⚽ and know more about the programming world.
-
-|Comando|Descripción|
-|-------|-----------|
-|ls|Lista los archivos de la carpeta actual|
-|cd|Navegar entre carpetas|
-|mkdir|Crear una carpeta|
-|cp-r|Permite copiar una carpeta|
-|rm-r|Permite eliminar una carpeta|
-
-
-|Alias|Descripción|
-|-----|-----------|
-|findd|busca archivo|
-|cl|limpia la terminal|
 
